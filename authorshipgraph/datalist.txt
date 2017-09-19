@@ -1,0 +1,10 @@
+scrape1.txt
+scrape2.txt
+scrape3.txt
+scrape4.txt
+scrape5.txt
+scrape6.txt
+scrape7.txt
+scrape9.txt
+scrape10.txt
+scrape11.txt

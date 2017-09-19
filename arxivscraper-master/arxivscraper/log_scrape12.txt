@@ -1,0 +1,8 @@
+http://export.arxiv.org/oai2?verb=ListRecords&from=2005-09-01&until=2006-08-31&metadataPrefix=arXiv&set=math
+fetching up to  1000 records...
+Traceback (most recent call last):
+  File "scrape12.py", line 20, in <module>
+    output = scraper.scrape()
+  File "/home/taduyan/cse691/arxivscraper-master/arxivscraper/arxivscraper.py", line 157, in scrape
+    token = root.find(OAI + 'ListRecords').find(OAI + 'resumptionToken')
+AttributeError: 'NoneType' object has no attribute 'find'
