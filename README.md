@@ -13,8 +13,8 @@ sudo apt-get install libcairomm-1.0-dev
 ```
 
 ```
- sudo apt-get install python-cairo
- sudo apt-get install python-cairo-dev
+sudo apt-get install python-cairo
+sudo apt-get install python-cairo-dev
 ```
 
 ```
